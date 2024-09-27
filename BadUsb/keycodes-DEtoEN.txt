@@ -1,0 +1,56 @@
+line 1
+
+½ = null
+§ = null
+! = !
+" = Ø
+@ = "
+# = #
+£ = null
+¤ = null
+$ = ¤
+% = %
+€ = null
+& = /
+/ = -
+{ = Å
+( = )
+[ = å
+) = =
+] = null
+= = null
+} = null
++ = null
+? = _
+´ = null
+` = ½
+| ? *
+
+line 2
+
+å = null
+Å = null
+¨ = null
+^ = &
+~ = §
+
+line 3
+
+æ = null
+Æ = null
+ø = null
+Ø = null
+* = (
+
+line 4
+
+< = ;
+> = error
+\ = '
+, = ,
+; = æ
+. = .
+: = Æ
+- = +
+_ = ?
+

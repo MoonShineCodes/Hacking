@@ -1,0 +1,5 @@
+REM My first payload
+DELAY 500
+GUI r
+DELAY 500
+STRING Hello, World!

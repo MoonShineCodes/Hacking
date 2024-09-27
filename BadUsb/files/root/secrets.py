@@ -1,0 +1,1 @@
+secrets = { 'ssid' : "AirTies_Air4960_HSR4", 'password' : "Walther1309" }
